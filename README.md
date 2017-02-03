@@ -1,2 +1,2 @@
 # Subdomain test
-Vulnerable
+http://www.jerryscript.org/
