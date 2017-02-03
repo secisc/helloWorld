@@ -1,2 +1,2 @@
 # Subdomain test
-http://www.jerryscript.org/
+www.jerryscript.org
